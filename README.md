@@ -9,8 +9,11 @@ npm install
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# or
+Open [https://we-make-app-test.herokuapp.com/](https://we-make-app-test.herokuapp.com/) with your browser to see the result.
 
 Second, 
-as no login function
-please add token in localstorage to call api 
-reload the page
+as no login function.
+Please add token in localstorage to call api and reload the page
+
+
